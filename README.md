@@ -12,6 +12,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0009-palindrome-number) |
 | [0509-fibonacci-number](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
