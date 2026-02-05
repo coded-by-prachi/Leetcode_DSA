@@ -4,6 +4,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -26,4 +27,16 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0509-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
