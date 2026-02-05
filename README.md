@@ -45,6 +45,7 @@
 | [0176-second-highest-salary](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0176-second-highest-salary) |
 | [0595-big-countries](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0596-classes-with-at-least-5-students) |
+| [0619-biggest-single-number](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0620-not-boring-movies) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 <!---LeetCode Topics End-->
