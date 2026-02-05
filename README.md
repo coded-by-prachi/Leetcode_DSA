@@ -43,4 +43,5 @@
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0176-second-highest-salary) |
+| [0596-classes-with-at-least-5-students](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0596-classes-with-at-least-5-students) |
 <!---LeetCode Topics End-->
