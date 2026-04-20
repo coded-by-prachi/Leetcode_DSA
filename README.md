@@ -4,6 +4,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0344-reverse-string) |
 ## String
@@ -14,6 +15,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -31,6 +33,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0001-two-sum) |
+| [0189-rotate-array](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
