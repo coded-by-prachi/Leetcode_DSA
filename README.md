@@ -16,6 +16,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
@@ -40,6 +41,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
