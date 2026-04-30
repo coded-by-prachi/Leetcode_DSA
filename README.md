@@ -10,12 +10,14 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0012-integer-to-roman) |
 | [0344-reverse-string](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0344-reverse-string) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0012-integer-to-roman) |
 | [0069-sqrtx](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0509-fibonacci-number) |
@@ -64,6 +66,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0012-integer-to-roman) |
 ## Divide and Conquer
 |  |
 | ------- |
