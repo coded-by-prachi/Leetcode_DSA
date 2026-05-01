@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0344-reverse-string) |
 ## Math
@@ -39,6 +40,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0014-longest-common-prefix) |
 | [0189-rotate-array](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0704-binary-search) |
@@ -101,4 +103,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0020-valid-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
