@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0344-reverse-string) |
 ## Math
 |  |
@@ -96,4 +97,8 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0912-sort-an-array) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
