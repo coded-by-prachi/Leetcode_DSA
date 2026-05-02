@@ -8,6 +8,7 @@ public:
         else if(n<0 && n>0){
             result = 1/pow(x, n);
         }
+     
         return result;
     }
 };
