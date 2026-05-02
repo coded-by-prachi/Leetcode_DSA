@@ -42,6 +42,7 @@
 | [0001-two-sum](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0014-longest-common-prefix) |
+| [0035-search-insert-position](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0035-search-insert-position) |
 | [0189-rotate-array](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0704-binary-search) |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0704-binary-search) |
