@@ -33,6 +33,7 @@
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0203-remove-linked-list-elements) |
 | [0509-fibonacci-number](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -121,4 +122,5 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [0203-remove-linked-list-elements](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
