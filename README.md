@@ -35,6 +35,7 @@
 | [0050-powx-n](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0203-remove-linked-list-elements) |
 | [0509-fibonacci-number](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0509-fibonacci-number) |
+| [2487-remove-nodes-from-linked-list](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Memoization
 |  |
 | ------- |
@@ -114,6 +115,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0020-valid-parentheses) |
+| [2487-remove-nodes-from-linked-list](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Trie
 |  |
 | ------- |
@@ -123,4 +125,9 @@
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0203-remove-linked-list-elements) |
+| [2487-remove-nodes-from-linked-list](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/2487-remove-nodes-from-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
