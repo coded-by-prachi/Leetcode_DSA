@@ -57,6 +57,7 @@
 | [0217-contains-duplicate](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0704-binary-search](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0912-sort-an-array) |
@@ -96,24 +97,28 @@
 | [0012-integer-to-roman](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0215-kth-largest-element-in-an-array](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0912-sort-an-array](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -122,6 +127,7 @@
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -130,6 +136,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0912-sort-an-array) |
 ## Stack
 |  |
@@ -158,6 +165,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0347-top-k-frequent-elements) |
 ## Prefix Sum
 |  |
 | ------- |
