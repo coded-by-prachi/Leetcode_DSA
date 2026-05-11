@@ -4,6 +4,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
@@ -150,6 +151,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0141-linked-list-cycle) |
