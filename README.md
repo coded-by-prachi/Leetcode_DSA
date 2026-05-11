@@ -51,6 +51,7 @@
 | [0189-rotate-array](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0704-binary-search](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0704-binary-search) |
@@ -148,4 +149,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
