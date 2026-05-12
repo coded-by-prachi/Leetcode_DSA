@@ -26,6 +26,7 @@
 | [0050-powx-n](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -57,6 +58,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -70,11 +72,13 @@
 | [0035-search-insert-position](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
 ## Database
 |  |
@@ -98,6 +102,7 @@
 | [0012-integer-to-roman](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Divide and Conquer
@@ -112,6 +117,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0912-sort-an-array](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0912-sort-an-array) |
