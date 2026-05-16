@@ -23,6 +23,7 @@
 | [0007-reverse-integer](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0189-rotate-array) |
@@ -79,6 +80,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
 ## Database
