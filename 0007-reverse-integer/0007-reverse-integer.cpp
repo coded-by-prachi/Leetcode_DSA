@@ -1,7 +1,7 @@
 class Solution {
 public:
     int reverse(int x) {
-        long long sum = 0;
+         long long sum = 0;
         int original = x;
         while(original != 0){
             int ans = original % 10;
@@ -13,6 +13,6 @@ public:
             original/= 10;
         }
         return sum;
+        
     }
-    
 };
