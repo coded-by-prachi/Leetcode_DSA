@@ -70,6 +70,7 @@
 | [0704-binary-search](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0912-sort-an-array) |
 | [2784-check-if-array-is-good](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/2784-check-if-array-is-good) |
+| [3046-split-the-array](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/3046-split-the-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -113,6 +114,7 @@
 | [0347-top-k-frequent-elements](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/2784-check-if-array-is-good) |
+| [3046-split-the-array](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/3046-split-the-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -154,6 +156,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0912-sort-an-array) |
+| [3046-split-the-array](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/3046-split-the-array) |
 ## Stack
 |  |
 | ------- |
