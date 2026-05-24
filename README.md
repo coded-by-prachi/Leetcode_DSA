@@ -72,6 +72,7 @@
 | [2784-check-if-array-is-good](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/2784-check-if-array-is-good) |
 | [3046-split-the-array](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/3046-split-the-array) |
 | [3151-special-array-i](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/3151-special-array-i) |
+| [3925-concatenate-array-with-reverse](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
 |  |
 | ------- |
@@ -225,4 +226,8 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Simulation
+|  |
+| ------- |
+| [3925-concatenate-array-with-reverse](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/3925-concatenate-array-with-reverse) |
 <!---LeetCode Topics End-->
