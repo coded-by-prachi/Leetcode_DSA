@@ -71,6 +71,7 @@
 | [0912-sort-an-array](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0912-sort-an-array) |
 | [2784-check-if-array-is-good](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/2784-check-if-array-is-good) |
 | [3046-split-the-array](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/3046-split-the-array) |
+| [3151-special-array-i](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/3151-special-array-i) |
 ## Binary Search
 |  |
 | ------- |
