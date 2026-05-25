@@ -73,6 +73,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0704-binary-search](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0912-sort-an-array) |
+| [1929-concatenation-of-array](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/1929-concatenation-of-array) |
 | [2784-check-if-array-is-good](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/2784-check-if-array-is-good) |
 | [3046-split-the-array](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/3046-split-the-array) |
 | [3151-special-array-i](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/3151-special-array-i) |
@@ -234,5 +235,6 @@
 ## Simulation
 |  |
 | ------- |
+| [1929-concatenation-of-array](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/1929-concatenation-of-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/3925-concatenate-array-with-reverse) |
 <!---LeetCode Topics End-->
