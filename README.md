@@ -7,6 +7,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
@@ -60,6 +61,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -129,6 +131,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0268-missing-number) |
