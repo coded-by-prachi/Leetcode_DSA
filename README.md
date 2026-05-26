@@ -20,6 +20,7 @@
 | [0014-longest-common-prefix](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0344-reverse-string) |
+| [2390-removing-stars-from-a-string](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Math
 |  |
 | ------- |
@@ -169,6 +170,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0020-valid-parentheses) |
+| [2390-removing-stars-from-a-string](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Trie
 |  |
@@ -236,5 +238,6 @@
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/1929-concatenation-of-array) |
+| [2390-removing-stars-from-a-string](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/2390-removing-stars-from-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/3925-concatenate-array-with-reverse) |
 <!---LeetCode Topics End-->
