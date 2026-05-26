@@ -12,6 +12,7 @@
 | [0189-rotate-array](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String
 |  |
@@ -20,6 +21,7 @@
 | [0014-longest-common-prefix](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Math
 |  |
