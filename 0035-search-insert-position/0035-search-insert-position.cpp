@@ -14,9 +14,7 @@ public:
             else {
                 e = mid-1;
             }
-            //  return mid;
         }
         return s;
     }
-
 };
