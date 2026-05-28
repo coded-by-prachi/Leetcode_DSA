@@ -13,6 +13,7 @@
 | [0287-find-the-duplicate-number](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0392-is-subsequence) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String
 |  |
@@ -22,6 +23,7 @@
 | [0020-valid-parentheses](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0392-is-subsequence) |
 | [2390-removing-stars-from-a-string](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Math
 |  |
@@ -39,6 +41,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
