@@ -72,6 +72,7 @@
 | [0238-product-of-array-except-self](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
+| [0334-increasing-triplet-subsequence](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0704-binary-search](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0704-binary-search) |
@@ -242,4 +243,8 @@
 | [1929-concatenation-of-array](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/2390-removing-stars-from-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/3925-concatenate-array-with-reverse) |
+## Greedy
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
