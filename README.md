@@ -80,6 +80,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0643-maximum-average-subarray-i](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0912-sort-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -256,4 +257,8 @@
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0334-increasing-triplet-subsequence) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
