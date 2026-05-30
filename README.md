@@ -83,6 +83,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0912-sort-an-array) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1929-concatenation-of-array](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/1929-concatenation-of-array) |
 | [2784-check-if-array-is-good](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/2784-check-if-array-is-good) |
