@@ -15,6 +15,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0392-is-subsequence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1768-merge-strings-alternately](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String
 |  |
@@ -25,6 +26,7 @@
 | [0344-reverse-string](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0392-is-subsequence) |
+| [1768-merge-strings-alternately](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/1768-merge-strings-alternately) |
 | [2390-removing-stars-from-a-string](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Math
 |  |
