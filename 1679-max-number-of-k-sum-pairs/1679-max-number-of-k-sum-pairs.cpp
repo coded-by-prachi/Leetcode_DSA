@@ -14,7 +14,7 @@ public:
                 i++;
             }
             // nums.erase(nums[i]);
-            // nums.erase(nums[j]);
+            // nums.erase(nums[j]);You do NOT need to erase elements., i++ means left element already used, j-- means right element already used ,So pointers automatically skip used elements.
             
             else if(sum < k){
                 i++;
