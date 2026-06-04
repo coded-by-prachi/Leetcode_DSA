@@ -1,7 +1,7 @@
 class Solution {
 public:
     int divide(int dividend, int divisor) {
-         if(dividend == INT_MIN && divisor == -1)
+        if(dividend == INT_MIN && divisor == -1)
              return INT_MAX;
         //  if(divisor == 1 && dividend == INT_MIN ){
         //     return  INT_MIN;
@@ -29,5 +29,6 @@ public:
         }
        
         return count;
+        
     }
 };
