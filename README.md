@@ -39,12 +39,14 @@
 | [0050-powx-n](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -60,6 +62,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/coded-by-prachi/Leetcode_DSA/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
