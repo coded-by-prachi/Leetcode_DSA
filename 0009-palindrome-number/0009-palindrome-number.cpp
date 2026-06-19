@@ -1,8 +1,7 @@
-using namespace std;
 class Solution {
 public:
     bool isPalindrome(int x) {
-        vector<int>arr;
+         vector<int>arr;
         string s = to_string(x);
         for(char c : s){
             arr.push_back(c - '0');
@@ -17,6 +16,5 @@ public:
         end--;
         }
         return true;
-
     }
 };
